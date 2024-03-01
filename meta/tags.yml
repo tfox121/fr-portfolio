@@ -7,8 +7,6 @@ tags:
     name: Review
   - slug: arts-culture
     name: Arts & culture
-  - slug: marketing
-    name: Marketing copy
   - slug: food
     name: Food
   - slug: arts-funding
